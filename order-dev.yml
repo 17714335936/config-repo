@@ -1,6 +1,6 @@
 spring:
   application:
-    name: order
+    name: config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
